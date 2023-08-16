@@ -1,4 +1,5 @@
 Multi Auth system in laravel 10x.
 
 Screenshots:
-![Screenshots]('public/Screenshots/Screenshot.png')
+
+!['Screenshots']('public/Screenshots/Screenshot.png')
