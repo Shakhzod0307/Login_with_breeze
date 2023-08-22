@@ -1,4 +1,4 @@
-Multi Auth system in laravel 10x.
+Multi Auth Login system in laravel 10x.
 
 Screenshots:
 
